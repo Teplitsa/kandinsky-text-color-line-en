@@ -1,1 +1,2 @@
-# kandinsky-text-color-line-en
+# kandinsky-text-color-line
+РОО "Линия цвета"
