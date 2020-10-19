@@ -1,25 +1,25 @@
-title="«Я живой»: фонд «Линия цвета» запустил медиакампанию по борьбе с алкогольной зависимостью"  
-tags="волонтеры,программа, проект, здоровый образ жизни"  
-cat="Новости проектов"  
+title="«I am alive»: fund "Line of Color" launched a media campaign to fight against alcohol addiction"  
+tags="volunteers, program, project, healthy lifestyle"  
+cat="Projects news"  
 thumb="article2.jpg"  
-lead="Я живой» – новый медиапроект помощи людям с алкогольной зависимостью запущен благотворительной организацией «Линия цвета». В рамках проекта создатели рассказывают о том пути, который проходят люди, чтобы отказаться от алкоголя, заново выстроить жизнь и реализовать свои мечты. Кампания построена на реальных историях успеха и поражений участников реабилитанционных программ фонда."  
+lead="I am ailive» – a new media project to help people with alcohol addiction was launched by the Line of Color charitable organization. Within the framework of the project, the creators talk about the way people choose to give up alcohol, rebuild their lives and realize their dreams. The campaign is based on real success stories and failures of participants in the foundation's rehabilitation programs. "  
 
 +++
 
-«Более полугода совместно с волонтерами, дизайнерами, программистами мы работали над этим проектом. В коротком анимационном фильме мы показали, как меняется жизнь человека, который подвержен алкогольной зависимости», – говорит инициатор и автор проекта Инесса Тепличная.
+“For more than six months, together with volunteers, designers, programmers, we have been working on this project. In a short animated film, we showed how the life of a person who is prone to alcohol addiction is changing” says the initiator and author of the project Inessa Teplichnaya.
 
-Проект создан благотворительным фондом **«Линия цвета»** совместно с порталом **«IT-волонтер»**. Он состоит из коротких историй, которые рассказывают люди, отказавшиеся от алкоголя и прошедшие программу выздоровления в центре «Линия жизни».
+The project was created by the **Line of Color** charitable foundation in cooperation with the **IT Volunteer** portal. It consists of short stories told by people who have given up alcohol and have undergone a recovery program at the Line of Color Center.
 
-> «Это не выдумка. Наши герои реальны, а их истории правдивы и потрясают. Они теряли себя, близких, друзей, но история не об этом. Она о том, как они вернулись, поднялись со дна и смогли наладить свою жизнь», – рассказала дизайнер проекта, волонтер Анна Чух.
+> “This is not a fiction. Our heroes are real, and their stories are true and amazing. They lost themselves, loved ones, friends, but the story is not about that. It is about how they returned, rose from the bottom and were able to improve their lives” said project designer, volunteer Anna Chukh.
 
-Проект состоит из нескольких компонентов: ролик с социальной рекламой, уже опубликован в сети и за первый день стал вирусным и набрал 342000 просмотров; информационный сайт с историями людей победивших алкоголизм; фотовыставка «Я живой», петиция.
+The project consists of several components: a video with social advertising, has already been published on the network and went viral on the first day and gained 342,000 views; information site with stories of people who have overcome alcoholism; photo exhibition "I am alive", petition.
 
-> «Мы решили запустить петицию с требованием к государственной думе ужесточить закон по продаже спиртных напитков. Мы хотим, чтобы алкоголь продавался только в закрытых помещениях, как сигареты, ограничить время его продажи с 12 до 14 часов дня и полностью запретить продажу в выходные дни и праздники, а также лицам, не достигшим 30-летнего возраста», – поделилась с нами активистка, волонтер Таисия Антыреева.
+> “We decided to launch a petition demanding the State Duma to toughen the law on the sale of alcoholic beverages. We want alcohol to be sold only indoors, like cigarettes, to limit the time of its sale from 12 to 14 pm and completely prohibit the sale on weekends and holidays, as well as to persons under the age of 30” said activist, volunteer Taisiya Antyreeva.
 
-Несмотря на довольно радикальные предложения, в первый же день подписи под петицией поставили 67000 человек.
+Despite the rather radical proposals, 67,000 people signed the petition on the very first day.
 
-В рамках кампании также будет проведена серия образовательных мероприятий в учебных заведениях страны. Эта инициатива поддержана Министерством образования и Министерством здравоохранения. Учебный курс «Линия цвета» рассчитан на учеников старших классов. Включает в себя 12 уроков, на которых школьники узнают, как алкоголь влияет на организм человека, как образуется зависимость, как меняется жизнь человека, страдающего алкоголизмом. Отдельный урок будет посвящен психологическим навыкам и мотивации в процессе отказа от спиртных напитков. Программа добровольная, ученики могут принять в ней участие по своему желанию.
-> «Мы верим, что маленькие шаги могут далеко привести. Наша кампания – это такой шаг. И мы не готовы останавливаться. Слишком много талантливых, умных, замечательных людей утопили свои жизни в бутылке. Если мы поможем хотя бы одному человеку, значит, кампания добилась своей цели», – сказал Архип Теменев, волонтер и активист центра «Линия цвета».
+The campaign will also host a series of educational events in the country's educational institutions. This initiative is supported by the Ministry of Education and the Ministry of Health. The Color Line training course is designed for high school students. Includes 12 lessons, in which students learn how alcohol affects the human body, how addiction is formed, how the life of a person suffering from alcoholism changes. A separate lesson will be devoted to psychological skills and motivation in the process of quitting alcohol. The program is voluntary.
+> “We believe that small steps can take you far. Our campaign is such a step. And we are not ready to stop. Too many talented, smart, wonderful people have drowned their lives in a bottle. If we help at least one person, then the campaign has achieved its goal” said Arkhip Temenev, volunteer and activist of the Color of Line Center. 
 
-### Справка
-**«Линия цвета»** – благотворительная организация, помогающая людям преодолеть алкогольную зависимость.
+### Reference
+**"Line of Color"** is a charitable organization that helps people overcome alcohol addiction.
