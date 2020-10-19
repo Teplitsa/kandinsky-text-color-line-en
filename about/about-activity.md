@@ -6,15 +6,15 @@ lead=""
 
 +++
 
-<h3 style="text-align:center;">Наша деятельность</h3>
+<h3 style="text-align:center;">What we do</h3>
 
-Мы упорно работаем с каждым, кто обратился к нам за помощью, с членами их семей, друзьями и теми, кто готов поддержать человека на пути к трезвому образу жизни.
+We work hard with everyone who turned to us for help, with their families, friends and those who are ready to support a person on the way to a sober lifestyle.
 
-Наша деятельность осуществляется **по трем направлениям.**
+We act **in three directions.**
 
-- Информационные и образовательные мероприятия о вреде и пагубности алкоголя. Мы проводим семинары для тех, кто готов поддержать человека в его восстановлении. Организуем закрытые анонимные группы общения, на которых каждый может найти поддержку, выступить и рассказать свою историю восстановления и возврата к жизни.
-- Оказываем поддержку в преодолении алкогольной зависимости в период краткосрочного и долгосрочного восстановительных процессов. Организуем группы общения и реабилитации, индивидуальные консультации, обследования у врачей, готовим рекомендации и персональный план выздоровления.
-- Оказываем послевосстановительную поддержку на долгосрочный период. Помогаем найти работу, восстановить документы, наладить отношения с родными и друзьями, получить дополнительное образование. Реализовать планы и мечты.
+- Information and educational activities about the dangers and harmfulness of alcohol. We conduct seminars for those who are ready to support a person in his recovery. We organize closed anonymous communication groups where everyone can find support, speak and tell their story of recovery and return to life.
+- We provide support in overcoming alcohol addiction during short-term and long-term recovery processes. We organize communication and rehabilitation groups, individual consultations, examinations with doctors, prepare recommendations and a personal recovery plan.
+- We provide long-term post-recovery support. We help to find a job, restore documents, establish relationships with family and friends, and get additional education. Make plans and dreams come true.
 
-//Здесь пришло время четко и понятно рассказать, что вы делаете. Разделите виды деятельности на пункты, так пользователю будет проще понять и перенести вашу деятельность на свой конкретный случай. В такой форме ему/ей будет значительно проще воспринять всю информацию визуально. Пользователь будет «переходить» от пункта к пункту.
+//Now it's time to clearly and clearly tell what you are doing. Divide the activities into sections, so it will be easier for the user to understand your activity and relate to their specific case. In this form, it will be much easier for them to perceive all the information visually. The user will "jump" from section to section.
  
