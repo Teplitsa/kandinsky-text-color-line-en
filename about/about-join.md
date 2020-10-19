@@ -1,4 +1,4 @@
-title="Присоединяйтесь"    
+title="Join us"    
 tags=""   
 cat=""  
 thumb="prisoedeniates.jpeg"  
@@ -6,4 +6,4 @@ lead=""
 
 +++
 
-Мы не останавливаемся и продолжаем работать. Всегда есть надежда, есть люди, готовые помочь и вернуть жизни яркие краски.
+We do not stop and continue to work. There is always hope, there are always people who are ready to help and bring back bright colors to life.
