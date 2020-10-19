@@ -1,4 +1,4 @@
-title="Сотрудники фонда «Линия цвета»"      
+title="Employees of the Fund "Line of Color""      
 tags=""    
 cat=""     
 thumb=""     
@@ -6,24 +6,24 @@ lead=""
 
 +++
 
-**Инесса Тепличная**
-Директор благотворительной организации «Линия цвета».
+**Inessa Teplichnaya**
+Director
 img="teplichnaya.jpg" 
-**Борис Мориев**  
-Куратор групп поддержки  
+**Boris Moriev**  
+Support groups coordinator  
 img="Moreev1.jpg"  
-**Ольга Лемихова**  
-Куратор работы волонтеров  
+**Olga Lemikhova**  
+Volunteers coordinator  
 img="lemixova.jpg"   
-**Семен Алексеев**  
-Руководитель учебных проектов  
+**Semyon Alekseev**  
+Educational projects coordinator  
 img="alexeev.jpg"    
-**Наталья Семенова**  
-Координатор работы со СМИ и пожертвованиями  
+**Natalia Semyonova**  
+Media and fundraising coordinator  
 img="semenova.jpg"  
-**Лада Аннушкина**  
-Редактор сайта, новостных рассылок, дизайн-проектов  
+**Lada Annushkina**  
+Site and newsletter editor
 img="aanuskhina.jpg" 
-**Иван Львов**  
-Куратор работы с родственниками  
+**Ivan Lvov**  
+Work with relatives coordinator
 img="lvov.jpg"  
