@@ -6,8 +6,8 @@ lead=""
 
 +++
 
-_«А ты сними топик, и я куплю его», – сказал он с масленой, похотливой улыбкой и протянул мне бумажку. И я сняла и продала рубашку, чтобы купить бухло. Было девять часов утра. Наверное, именно в тот момент, когда шла полуголая по улице с банкой пива в руке, я поняла, что моя жизнь утонула в этой мутной жиже. А еще я расплакалась, от понимания того, что отдала бы больше в обмен на бутылку. Я достигла дна, и казалось, выхода нет, я конченый человек и все, о чем мечтала, все планы, которые строила на жизнь, пропила»._
+_«Take off the top and I'll buy it” he said with an oily, lustful smile and handed me a note. And I took off and sold my shirt to buy some booze. It was nine o'clock in the morning. Probably, at that very moment, when I was walking half-naked down the street with a can of beer in my hand, I realized that my life was drowned in this muddy slurry. And I also burst into tears from the understanding that I would give more in exchange for a bottle. I reached the bottom, and it seemed that there was no way out, I am a goner and everything that I dreamed of, all the plans that I made for life, I ruined through drinking»._
 
-Это письмо написала **Настя Т.**, она первой пришла в нашу благотворительную организацию «Линия Цвета» спустя два дня после того как мы открыли двери своего небольшого офиса. С тех пор мы помогаем каждому, кто готов отказаться от алкогольной зависимости и хочет вернуть в свою жизнь цвет. Взамен черной боли потерь, страха, разочарований мы даем стабильную поддержку и помощь в преодолении пагубной привычки.
+This letter was written by  **Nastya T.**, she was the first to come to our charitable organization "Line of Color" two days after we opened the doors of our small office. Since then we have been helping everyone who is ready to give up alcohol addiction and want to return color to their lives. Instead of the black pain of loss, fear, and disappointment, we give stable support and help in overcoming the addiction.
 
-//Начните с истории. Людям нравятся истории, они затягивают, заставляют сопереживать, примерить ситуацию на себя или своих родных, зацепите пользователя и ведите его дальше.
+//Start with a story. People like stories, it is involving, make them empathize and try on the situation for themselves or their relatives, engage the user and lead him on.
