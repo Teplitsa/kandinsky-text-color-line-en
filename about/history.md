@@ -1,4 +1,4 @@
-title="Наша история"  
+title="Our history"  
 tags=""  
 cat=""  
 thumb="history.jpg"  
@@ -6,30 +6,30 @@ lead=""
 
 +++
 
-Мы открыли двери офиса в 2012 году и с тех пор помогает тем, кто борется с алкогольной зависимостью. 
+We opened our office doors in 2012 and since then we have been helping those who are struggling with alcohol addiction.
 
-Мы молодая организация, но нам уже есть что рассказать, поделиться историями тех, кто с нашей помощью смог преодолеть пагубную зависимость и вернуть себе жизнь.
+We are a young organization, but we already have a story to tell, to share the stories of those who, with our help, were able to overcome their addiction and regain their lives.
 
-**2012 год** 
+**2012** 
 
-Создание фонда «Линия цвета». В этом году мы запустили свою первую кампанию по привлечению внимания к проблеме алкоголизма среди подростков. Провели две городские акции «Верни себе жизнь». Была создана первая группа реабилитации и поддержки тем, кто решил отказаться от алкоголя. Разработали программу восстановления и последующей поддержки выздоравливающих.
+Creation of the "Color Line" fund. This year we launched our first campaign to raise awareness of alcoholism among adolescents. We held two city actions “Take Your Life Back”. The first group of rehabilitation and support for those who decided to give up alcohol was created. Developed a program of recovery and subsequent support for convalescents. 
 
-**2013 год** 
+**2013** 
 
-Этот год был напряженным. Семь городских акций, запуск образовательной программы в местных школах, была разработана серия семинаров и мастер-классов для родственников тех, кто проходил реабилитацию в нашем фонде. Запущена городская кампания «Чистый выбор», которая была посвящена распространению информации и методах и способах преодоления алкогольной зависимости. В этом году мы сформировали первую команду волонтеров из тех, кто успешно прошел в нашем центре программу восстановления. 
+This year has been stressful. Seven city actions, the launch of an educational program in local schools, a series of seminars and master classes were developed for the relatives of those who underwent rehabilitation in our foundation. The city's campaign "Clean Choice" was launched, which was dedicated to disseminating information and methods and ways to overcome alcohol addiction. This year we have formed the first team of volunteers from those who have successfully completed the recovery program at our center.
 
-**2014 год**
+**2014**
 
-Впервые вышли на национальный уровень. Провели первую российскую практическую конференцию, посвященную методологиям, поддержки людей решившим отказаться от алкоголя. Начали разработку образовательной программы для высших учебных заведений. Было создано три группы поддержки для разных возрастов. Начал работать консультационный центр для родственников выздоравливающих. 
+We entered the national level for the first time. We held the first Russian practical conference on methodologies to support people who decided to give up alcohol. We started developing an educational program for higher educational institutions. Three support groups were created for different ages. A counseling center for relatives of convalescents began to work.
 
-**2015 год**
+**2015**
 
-Количество волонтеров в этом году достигло 35 человек. У нас появился центр медицинской и юридической консультации для участников программ реабилитации. Провели пять городских акций, 23 мастер-класса, запустили постоянно действующий лекторий. Разработали пять программ поддержки и реабилитации.
+The number of volunteers this year has reached 35 people. We now have a medical and legal consultation center for participants in rehabilitation programs. We held five city events, 23 master classes, and launched a permanent lecture hall. Five support and rehabilitation programs have been developed.
 
-**2016 год**
+**2016**
 
-В этом году было много работы. Утвердили и запустили образовательную программу для учеников старших классов. Провели тестовую учебную программу в трех высших учебных заведениях. Организовали две городские акции. Все наше внимание в этом году было сконцентрировано на разработке проектов для нашей организации. Было запущено пять внутренних проектов по реабилитации. Количество волонтеров возросло до 43. Начались переговоры о запуске проекта убежища для женщин с алкогольной зависимостью пострадавших от насилия.
+There was a lot of work this year. We have approved and launched an educational program for high school students. Conducted a test curriculum in three higher education institutions. Organized two city actions. All our attention this year has been focused on developing projects for our organization. Five internal rehabilitation projects have been launched. The number of volunteers has increased to 43. Negotiations have begun on the launch of a shelter project for women with alcohol dependence victims of violence. 
 
-**2017 год** 
+**2017** 
 
-Запущен проект «Дом» – центр где женщины пострадавшие от насилия могут получить помощь и пройти курс отказа от алкоголя. Разработано три учебных программы по реабилитации и восстановлению. Провели две городские акции. Утвердили учебную программу для школ. В этом году запустим ее во всех средних учебных заведениях города. Активно работаем над созданием групп поддержки, сейчас их уже 12.
+The project "Home" was launched - a center where women who have suffered from violence can receive help and take a course on alcohol withdrawal. Three training programs have been developed for rehabilitation and recovery. We carried out two city actions. The curriculum for schools was approved. This year we will launch it in all secondary educational institutions of the city. We are actively working on creating support groups, now there are 12 of them.
