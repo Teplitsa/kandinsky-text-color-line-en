@@ -1,4 +1,4 @@
-title="«Линия Цвета» – мы помогаем людям, которые борются с алкогольной зависимостью"  
+title=""Line of Color" - we help people who are struggling with alcohol addiction"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,5 +6,5 @@ lead=""
 
 +++
 
-//Пишите заголовок так, чтобы каждый, кто прочтет его, сразу понял, чем вы занимаетесь. Не вашу философию, об этом вы расскажете ниже, а именно то, что вы делаете. У пользователя сразу должно появиться понимание, что он нашел то, что искал.
+//Write your headline so that everyone who reads it will easily understand what you are doing. Not your values (you will tell about this below), but exactly what you are doing. Users should understand that they found exactly what they were looking for.
 
