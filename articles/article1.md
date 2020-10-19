@@ -1,35 +1,35 @@
-title="Мы запускаем проект «Дом» – помощь женщинам с алкогольной зависимостью"    
-tags="волонтеры,дом,убежище,программа"  
-cat="Новости проектов"   
+title="We are launching a project "Home" - helping women with alcohol addiction"    
+tags="volunteers, home, shelter, program"  
+cat="Projects news"   
 thumb="14.jpg"   
-lead="Мы запускаем проект «Дом» – помощь женщинам с алкогольной зависимостью, которые подверглись насилию. Увы, проблема актуальная."
+lead="We are launching a project "Home" - helping women with alcohol addiction who have been subjected to violence. Alas, the problem is urgent."
 
 +++
 
-**Суть проекта:** правительство Москвы выделило нам целую секцию в отдаленном подмосковном санатории, который станет убежищем и центром реабилитации для жертв насилия. Здесь мы будем проводить программы восстановления и психологической поддержки для тех, кто готов отказаться от алкоголя. Проект «Дом» – это убежище, безопасное место, где человек может найти помощь, прийти в себя и попробовать восстановить свою жизнь.
+**The essence of the project:** the Moscow government has allocated us a whole section in a remote sanatorium near Moscow, which will become a refuge and a rehabilitation center for victims of violence. Here we will conduct recovery and psychological support programs for those who are ready to give up alcohol. The Home Project is a refuge, a safe place where a person can find help, come to his senses and try to rebuild his life.
 
-**Программа добровольная.** Никто не принуждает женщин, обратившихся к нам за помощью, бросить пить. Это всегда их выбор и без него, сами знаете, мы ничем помочь не сможем. Но для тех, кто решит сделать этот шаг, мы предлагаем 3-месячную программу реабилитации.
+**The program is voluntary.** No one is forcing women who is seeking help to stop drinking. It is always their choice, and without it, you know, we cannot do anything. But for those who decide to take this step, we offer a 3-month rehabilitation program.
 
-**Программа состоит из четырех этапов:**
-* реабилитация – помощь врачей, психологов, юристов;
-* лечение – двухмесячная программа, которая помогает отказаться от алкоголя;
-* адаптация – курсы психологической помощи;
-* новый путь – серия индивидуальных консультаций со специалистами по выстраиванию новой жизни.
+**The program consists of four stages:**
+* rehabilitation - assistance from doctors, psychologists, lawyers;
+* treatment - a two-month program that helps to give up alcohol;
+* adaptation - courses of psychological assistance;
+* a new path - a series of individual consultations with specialists in building a new life.
 
-По окончании этой программы желающие могут присоединиться к другим программам нашего центра.
+Upon completion of this program, those who wish can join other programs of our center.
 
-**Итак, нам нужны волонтеры для этого проекта.** Мы начинаем все с нуля. Даже помещение требует серьезной уборки и косметического ремонта. Сама программа разработана, но для ее реализации нужны люди.
+**So, we need volunteers for this project.** We start from scratch. Even the premises require serious cleaning and cosmetic repairs. The program itself is ready, but we need people to implement it. 
 
-**Мы ищем:**
+**We are looking for:**
 
-* куратора программы;
-* администратора центра;
-* психолога (обязательно с профессиональной подготовкой и подтвержденным дипломом);
-* врача (обязательно с профессиональной подготовкой и подтвержденным дипломом);
-* медсестру (обязательно с профессиональной подготовкой и подтвержденным дипломом);
-* юриста (обязательно с профессиональной подготовкой и подтвержденным дипломом);
-* волонтеров для работы в центре в качестве помощников, дежурных, дневных и ночных администраторов.
+* program manager;
+* center administrator;
+* psychologist (necessarily with professional training and a confirmed diploma);
+* doctor (necessarily with professional training and a confirmed diploma);
+* nurse (necessarily with professional training and a confirmed diploma);
+* lawyer (always with professional training and a confirmed diploma);
+* volunteers to work in the center as assistants, attendants, day and night administrators.
 
-**Для участия в проекте заполните форму волонтера**
+**To participate in the project, fill out the volunteer form**
 
-Куратор работы волонтеров, свяжется с вами. (Форма)
+A volunteer supervisor will contact you. (The form)
