@@ -1,4 +1,4 @@
-title="Заголовок: Присоединяйтесь"    
+title="Title: Join us"    
 tags=""   
 cat=""  
 thumb="prisoedeniates.jpeg"  
@@ -6,16 +6,16 @@ lead=""
 
 +++
 
-//Дайте немного информации о ваших успехах и доказательствах эффективности ваших проектов и организации. Пользователю важно убедиться, что вы надежны и действительно помогли другим, а значит, сможете помочь и ему/ей. Эта информация завершит первый стройный рассказ о вашей организации, подведет итог. Вы сможете достичь определенного уровня доверия. Но не переборщите с цифрами, они утомляют. Выберите только самое важное, данные, которые помогут пользователям принять решение присоединиться к проекту.
+//Give some information about your successes and evidence of the effectiveness of your projects and organization. It is important for the people to make sure that you are reliable and really helped others, which means that you can help them. This information will complete the first summarizing story about your organization. You will be able to achieve a certain level of trust. But don't overdo it with numbers, it might be boring. Choose only the most important information that will help users decide to join the project.
 
-Но мы не останавливаемся и продолжаем работать, чтобы те, кому нужна помощь, знали, что всегда есть надежда, есть люди, готовые помочь и поддержать, есть линия цвета, которая может вернуть жизни яркие краски.
+But we do not stop and continue to work. There is always hope, there are always people who are ready to help and bring back bright colors to life.
 
-//В 1-2 предложениях расскажите о своих планах. Добавьте мотивационный элемент, расскажите о том, что вы упорны и активны.
+//In 1-2 sentences, tell us about your plans. Add a motivational element, tell people that you are persistent and active.
 
-Запишитесь в группу поддержки (линк). 
+Sign up for a support group (link). 
 
-Запишитесь на индивидуальную консультацию (линк).
+Sign up for an individual consultation (link).
 
-Если вы хотите поддержать проект, сделайте пожертвование (линк) или запишитесь в волонтеры (линк).
+If you want to support the project, make a donation (link) or sign up for volunteering (link).
 
-//Обязательно дайте призыв к действию, откройте дверь к переходу в другие разделы сайта, не оставляйте пользователя в «закрытой комнате». Давайте линк, предлагайте заполнить форму обратной связи, попросите записаться в программу или стать волонтером.
+//Be sure to give a call to action, open the door to the transition to other sections of the site, do not leave the user in a "closed room". Give a link, offer to fill out the feedback form, ask to enroll in the program or become a volunteer.
