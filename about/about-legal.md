@@ -1,29 +1,29 @@
-title="Отчеты и документы"  
+title="Reports and documents"  
 tags=""  
 cat=""  
 thumb="legal.jpg"  
 lead=""  
 
 +++
-<h3 style="text-align:center;">Отчеты и документы</h3>
+<h3 style="text-align:center;">Reports and documents</h3>
 
-<h4 style="text-align:center;">Линия жизни - это</h4>
+<h4 style="text-align:center;">"Line of Color" is</h4>
  
-- 5 лет успешной работы;
-- 877 человек прошли программу выздоровления;
-- 83% завершили программу полным отказом от употребления спиртного;
-- 182 человека получили новую работу;
-- 75 человек сменили профессию на лучшую;
-- 23 человека восстановили семью.
+- 5 years of successful work;
+- 877 people finished rehabilitation programm;
+- 83% completed the program by completely quitting alcohol;
+- 182 people got a new job;
+- 75 people changed their profession for a better one;
+- 23 people rebuilt the family.
 
-<h4 style="text-align:center;">Официальные документы</h4>
+<h4 style="text-align:center;">Official documents</h4>
 
-- Кодекс этики благотворительного фонда «Линия цвета» (Скачать)
-- Логотип и уставные документы «Линия цвета». (Скачать)
-- Банковские реквизиты ВНКО «Линия цвета» (Скачать)
-- ОГРН
-- Учредители ВНКО «Линия цвета»: **Амелия Семенова, Николай Тучкин**.
+- Code of ethics of the charitable foundation "Line of Color" (Download)
+- Logo and statutory documents (Download)
+- Bank details (Download)
+- OGRN
+- Founders of VNKO "Line of color": **Amelia Semenova, Nikolay Tuchkin**.
 
-<h4 style="text-align:center;">Источники финансирования ВНКО «Линия цвета»</h4>
+<h4 style="text-align:center;">Funding sources VNKO "Line of Color"</h4>
 
-Сводный отчет по всем грантовым поступлениям и пожертвованиям за период 2012-2016 годы. (Скачать)
+Summary report on all grant receipts and donations for the period 2012-2016. (Download)
