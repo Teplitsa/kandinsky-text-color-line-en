@@ -1,35 +1,35 @@
-title="Благотворительный фонд «Линия цвета» закончил работу над онлайн-курсом, который посвящен практическим рекомендациям для тех, кто готов отказаться от употребления спиртных напитков."  
-tags="волонтеры,онлайн-курс, программа,"  
-cat="Новости проектов"  
+title="The "Line of Color" Charitable Foundation has finished working on an online course dedicated to practical recommendations for those who are ready to quit drinking alcohol."  
+tags="volunteers, online course, program"  
+cat="Projects news"  
 thumb="online-course.jpg"  
-lead="Курс разделен на семь модулей. Каждый раздел дает практические рекомендации и советы, тем, кто готов отказаться от пагубной привычки. Изучая раздел за разделом, вы сможете в удобном вам темпе, внедрять в свою жизнь изменения, которые позволят выстроить здоровый образ жизни."  
+lead="The course is divided into seven modules. Each section provides practical advice and advice for those who are ready to give up their addiction. By studying section by section, you can, at your own pace, implement changes in your life that will allow you to build a healthy lifestyle."  
 
 +++
 
-Курс разделен на семь модулей. Каждый раздел дает практические рекомендации и советы, тем, кто готов отказаться от пагубной привычки. Изучая раздел за разделом, вы сможете в удобном вам темпе, внедрять в свою жизнь изменения, которые позволят выстроить здоровый образ жизни.  
+The course is divided into seven modules. Each section provides practical advice and advice for those who are ready to give up their addiction. By studying section by section, you can, at your own pace, implement changes in your life that will allow you to build a healthy lifestyle. 
 
-В создании курса приняли участие врачи, психологи и юристы фонда. Они дали свои рекомендации и рассказали, что необходимо сделать, чтобы преодолеть зависимость, настроить себя на положительные изменения, поставить перед собой новые жизненные цели и достичь их.  
+Doctors, psychologists and lawyers of the foundation took part in the creation of the course. They gave their recommendations and told what needs to be done in order to overcome addiction, set yourself up for positive changes, set new life goals and achieve them.   
 
-**Разделы курса:**
+**Course sections:**
 
-1. Шаг первый: Как отказаться от алкоголя и преодолевать ежедневное стремление выпить.
+1. Step one: How to give up alcohol and overcome the daily urge to drink.
 
-2. Шаг второй: Как поставить перед собой новые цели и мотивировать себя на изменения.
+2. Step two: How to set new goals and motivate yourself to change.
 
-3. Шаг третий: Новые возможности. Как найти свою мечту и заполнить пустоту.
+3. Step Three: New Features. How to find your dream and fill the void.
 
-4. Шаг четвертый: Спорт, творческая реализация и поиск нового увлечения.
+4. Step four: Sports, creative realization and the search for a new hobby.
 
-5. Шаг пятый: Работа над привычками. Как изменить свой день, чтобы не оставить места для алкоголя.
+5. Step five: Work on habits. How to change your day to avoid leaving room for alcohol.
 
-6. Шаг шестой: Если вы потеряли все. Как восстановить свою работу, наладить отношения с друзьями и близкими.
+6. Step six: If you have lost everything. How to restore your job, build relationships with friends and family.
 
-7. Шаг седьмой: Движение вперед. Как не сорваться и продолжать двигаться вперед развивая новые здоровые привычки.
+7. Step Seven: Moving Forward. How not to break down and keep moving forward developing new healthy habits.
 
-Отдельный раздел создан специально для членов семей и друзей тех, кто решил отказаться от алкоголя. В нем мы даем советы, как вы можете поддержать близкого человека в его борьбе. Рассказываем, что необходимо поменять в повседневной жизни семьи, чтобы не провоцировать близкого человека на срыв и употребление спиртных напитков.
+A separate section was created specifically for family members and friends of those who decided to give up alcohol. In it, we give advice on how you can support your loved one in his struggle. We tell you what needs to be changed in the everyday life of the family, so as not to provoke a loved one to breakdown and drink alcohol.
 
-Каждый раздел содержит видеоуроки, подготовленные специалистами и экспертами нашего фонда. Даются практические советы по преодолению зависимости. Особое внимание уделено историям людей, которые отказались от пагубной привычки и выстроили свою жизнь заново.
+Each section contains video tutorials prepared by specialists and experts of our foundation. Provides practical advice for overcoming addiction. Particular attention is paid to the stories of people who have given up their addiction and rebuilt their lives.
 
-«Я сам прошел все программу реабилитации и с удовольствием принял участие в создании этого курса. Я рассказал свою историю, а затем посмотрел и истории других людей. Если бы у меня был такой курс в самом начале моего пути, было бы проще сделать первый шаг к выздоровлению. Он очень мотивирует». – говорит один из создателей курса, волонтер фонда «Линия цвета» Семен Пущин.
+“I went through the entire rehabilitation program and took part in the creation of this course with pleasure. I told my story and then looked at other people's stories. If I had such a course at the very beginning of my journey, it would be easier to take the first step towards recovery. He's very motivating. " - says one of the creators of the course, a volunteer of the "Line of color" fund Semyon Pushchin.
 
-Курс выложен на образовательном ресурсе Stepik и доступен бесплатно всем желающим. Посмотрите его сегодня.
+The course is posted on the educational resource Stepik and is available free of charge to everyone. Check it out today.
