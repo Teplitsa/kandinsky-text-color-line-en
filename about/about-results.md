@@ -1,4 +1,4 @@
-title="Результаты"  
+title="Results"  
 tags=""  
 cat=""  
 thumb="activity-results.jpg"  
@@ -6,4 +6,4 @@ lead=""
 
 +++
 
-За пять лет работы мы провели **129 образовательных мероприятий**, создали **74 группы поддержки**. В нашей библиотеке **382 истории успеха** людей, которые не только навсегда отказались от алкоголя, но и смогли вернуться к нормальной жизни.
+In five years of work we organized <strong>129 educational events</strong>, created 7<strong>4 support groups</strong>. We have <strong>382 succes stories</strong> of people who not only gave up alcohol forever, but were also able to return to normal life.
