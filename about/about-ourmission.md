@@ -1,11 +1,11 @@
-title="Наша миссия"  
+title="Our missiom"  
 tags=""  
-cat="Новости проектов"  
+cat="Projects news"  
 thumb="13.jpg"  
 lead=""  
 
 +++
 
-Вдохновлять, помогать и поддерживать людей в их борьбе с алкогольной зависимостью.
+To inspire, help and support people in their fight against alcohol addiction.
 
-//Ваша миссия должна обобщать все что вы делаете. В краткой фразе заложите весь смысл вашей организации и ваших проектов.
+//Your mission should be to summarize everything you do. In a short phrase, put the whole point of your organization and your projects.
