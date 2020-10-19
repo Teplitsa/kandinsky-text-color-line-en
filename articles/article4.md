@@ -1,50 +1,53 @@
-title="Проект «ЗОЖНИК»: как мы собирали деньги в Сети"  
-tags="интервью, краудфандинг, новости, kickstarter, Boomstarter"  
-cat="Руководство"  
+title=""Zozhnik" project: how we collected money on the Web"  
+tags="interviews, crowdfunding, news, kickstarter, Boomstarter"  
+cat="management"  
 thumb="article4.jpg"  
-lead="Друзья, сегодня мы хотим поделиться с вами историей наших коллег. Нас занимает вопрос, как найти средства на запуск нового проекта? Не всегда удается получить финансирование от государства или частных компаний. Мы активно изучаем формат краудфандинга (сбора пожертвований в Сети). Сегодня знакомим вас с опытом наших коллег из проекта «ЗОЖНИК»."  
+lead="Friends, today we want to share with you the story of our colleagues. We are interested in the question of how to find funds to launch a new project? It is not always possible to obtain funding from the state or private companies. We are actively studying the format of crowdfunding (collecting donations on the Internet). Today we introduce you to the experience of our colleagues from the "Zozhnik" project".  
 
 +++
 
-**Проект «ЗОЖНИК»** − блог о здоровом образе жизни. Его статьи посвящены правильному питанию, занятию спортом, описанию научных фактов в области здоровья, спорта и долголетия. Создатели сайта − <em><strong>Максим и Юлия Кудеровы</strong></em> – запустили проект по сбору средств на создание инфографического видео об азах здорового образа жизни и собрали больше, чем ожидали.
+**"Zozhnik" project»** − blog about a healthy lifestyle. Its articles are devoted to proper nutrition, sports, the description of scientific facts in the field of health, sports and longevity. Blog creators − <em><strong>Maxim and Yulia Kuderov</strong></em> launched a fundraising project to create an infographic video about the basics of a healthy lifestyle and raised more than expected.
 
-Идея была простой. Собрать деньги на создание визуального проекта − интерактивного пособия, в котором обобщить все существующие знания и методики, использование которых поможет человеку получить быстрый ответ на такие вопросы, как привести свое тело в порядок или что надо изменить в своих привычках, чтобы вести более здоровый образ жизни.
+The idea was simple. Raise money for the creation of a visual project - an interactive manual in which to summarize all existing knowledge and techniques, the use of which will help a person get quick answers to questions such as putting his body in order or what needs to be changed in his habits in order to lead a healthier lifestyle. 
 
-> В начале февраля 2014 года на сайте Boomstarter.ru они собрали на эти цели 50 650 рублей при первоначальной цели в 45 000 рублей.
+> At the beginning of February 2014, on the Boomstarter.ru website, they raised 50,650 rubles for this purpose, with an initial goal of 45,000 rubles.
 
-Один из авторов проекта, **Максим Кудеров**, поделился своими впечатлениями.
+One of the project authors, **Maxim Kuderov**, shared his thoughts.
 
-**− Как вы узнали о краудфандинге? Почему решили использовать именно этот «инструмент»?**
+**− How did you hear about crowdfunding? Why did you decide to use this particular "tool"?**
 
-− Мы были хорошо знакомы с американским проектом kickstarter.com, который стал родоначальником настоящего массового краудфандинга в США. Когда заработал российский аналог, мы в студии «Анимульт» выставили свой проект-пилот российского аналога «Южного парка» − проект «Чебоксары», но так и не смогли собрать необходимую сумму. Правда, честно говоря, мы особо и не рассчитывали, потому что тема новая и предложить инвесторам нам особо было нечего.
+− We were very familiar with the American project kickstarter.com, which became the pioneer of true massive crowdfunding in the United States. When the Russian analogue started working, we in the Animult studio exhibited our pilot project of the Russian analogue of the South Park - the Cheboksary project, but we could not collect the required amount. True, to be honest, we didn't really count on it, because the topic is new and we didn't have much to offer for investors.
 
-**− В чем для вас заключается цель проекта?**
+**− What is the purpose of the project for you?**
 
-− Донести до максимально большого количества людей азы здорового образа жизни: принципы похудения и прибавки веса; почему нельзя голодать; что есть, а каких продуктов избегать, чтобы похудеть; как штанга или бег помогают в похудении или наборе массы.
+− To convey to the largest possible number of people the basics of a healthy lifestyle: principles of weight loss and weight gain; why not starve; what to eat and what foods to avoid in order to lose weight; how a barbell or running helps in losing weight or gaining mass.
 
-Два спонсора, которые пожертвовали более 1 500 рублей, получили 15 тысяч показов баннера на сайте zozhnik.ru, а также их имена будут указаны в титрах к инфографическому ролику. Все остальные спонсоры также получили «подарки» за свой вклад.
+Two sponsors who donated more than 1,500 rubles received 15,000 banner impressions on the zozhnik.ru website, and their names will also be indicated in the credits to the infographic video. All other sponsors also received “gifts” for their contributions.
 
-**− Кто вместе с вами работает над проектом? Кто в команде?**
+**- Who works with you on the project? Who's on the team?**
 
-− Над «Зожником» трудится моя жена − Юлия Кудерова, в ближайшем будущем дипломированный тренер и диетолог. Над мультфильмом − профессиональные аниматоры и дизайнеры.
+− My wife, Julia Kuderova, is working on "Zozhnik". She is a certified trainer and nutritionist in the near future. The cartoon was made by professional animators and designers.
 
-**− Какие плюсы и минусы краудфандинга вы могли бы выделить?**
+**− What are the pros and cons of crowdfunding?**
 
-− Плюсы очевидны − возможность собрать деньги на проект и реализовать то, на что вряд ли кто-то даст денег. Возможность реализовать проекты, которые нужны людям, получить от них обратную связь рублем. «Зожник» − это наш благотворительный проект для людей, чтобы затащить в здоровый образ жизни максимальное количество людей. И мультфильм, на который мы собрали деньги, − обратная связь.
+− The advantages are obvious - the ability to raise money for a project and implement something that hardly anyone will give money for. The ability to implement projects that people need, to get feedback from them in rubles. Zozhnik is our charitable project for people in order to drag the maximum number of people into a healthy lifestyle. And the cartoon for which we raised money - feedback.
 
-**− Может быть, вы столкнулись с какими-нибудь интересными, неожиданными моментами в процессе сбора средств?**
+**− Maybe you came across some interesting, unexpected moments in the process of fundraising?**
 
-− Для нас было огромной неожиданностью узнать, что у нашего проекта есть фанаты, которые готовы давать довольно существенные средства, чтобы помочь нам в нашем деле. Так мы познакомились с такими замечательными людьми, как Елена Пятибрат.
+- It was a huge surprise for us to learn that our project has fans who are ready to give quite substantial funds to help us in our business. This is how we met such wonderful people as Elena Pyatibrat.
 
-**− Что бы вы могли посоветовать начинающим краудфандинговым проектам?**
-* Делайте проект для людей или, если делаете его для себя, то предложите людям что-то существенное в обмен на их вложение, что-то материальное.
-* Планируете ли вы использовать этот «инструмент» в дальнейшем?
-* Возможно, если будет что-то стоящее, что можно предложить.
-* Как вы думаете, есть ли будущее у краудфандинга в России?
+**− What advice would you give to beginning crowdfunding projects?**
 
+Do a project for people or, if you do it for yourself, then offer people something significant in exchange for their investment, something material.
 
-− Уверен, что есть. Возможно, не в таком объеме и количестве, как в тех же Штатах, но какой-то рынок и объем у краудфандинга как явления будет. Думаю, что мешает бурному развитию российский менталитет. Открытых, отдающих, помогающих, созидающих людей у нас явно не большинство. Но они все же есть, и это прекрасно. На таких людях держится вся Россия.
+**Do you plan to use this "tool" in the future?**
 
-**<a href="https://boomstarter.ru/projects/87460/infograficheskiy_rolik_o_tom_kak_privesti_telo_v_poryadok" target="_blank" rel="noopener">Проект на Boomstarter</a>**
+Perhaps, if there is something worthwhile to offer.
 
-**<a href="https://www.zozhnik.ru/" target="_blank" rel="noopener">Сайт ЗОЖНИК</a>.**
+**Do you think there is a future for crowdfunding in Russia?**
+
+- I'm sure there is. Perhaps not in the same volume and quantity as in the same States, but crowdfunding will have some market and volume as a phenomenon. I think that the Russian mentality is hindering the rapid development. We are clearly not the majority of open, giving, helping, creative people. But they are there, and that's great. All of Russia is based on such people.
+
+**<a href="https://boomstarter.ru/projects/87460/infograficheskiy_rolik_o_tom_kak_privesti_telo_v_poryadok" target="_blank" rel="noopener">Project at Boomstarter</a>**
+
+**<a href="https://www.zozhnik.ru/" target="_blank" rel="noopener">Site Zozhnik</a>.**
