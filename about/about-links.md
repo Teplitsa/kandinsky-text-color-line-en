@@ -1,1 +1,1 @@
-[История «Линия цвета»](mdlink="page/about-history")[Отчеты](mdlink="page/reports")[Контакты](mdlink="page/contacts")
+[History of "Line of color"](mdlink="page/about-history")[Reports](mdlink="page/reports")[Contacts](mdlink="page/contacts")
