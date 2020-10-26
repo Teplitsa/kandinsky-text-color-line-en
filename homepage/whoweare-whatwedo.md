@@ -1,7 +1,7 @@
-title="Что мы делаем?"  
-lead=Посмотреть проекты  
+title="What we do?"  
+lead=View projects  
 url="/projects/"  
 
 +++
 
-Организуем реабилитационные программы, информируем, помогаем тем, кто готов отказаться от пагубной привычки и вернуть свою жизнь.
+We organize rehabilitation programs, inform and help those who are ready to give up their addiction and return their lives.
