@@ -1,12 +1,12 @@
-title="Нужна помощь"  
+title="Get the help"  
 slug="gethelp"
 
 +++
 
-Вы решили изменить свою жизнь и избавится от пагубной привычки. Звоните на нашу горячую линию, мы организуем консультацию со специалистом и поможем сделать первый шаг. 
+You have decided to change your life and get rid of the addiction. Call our hotline, we will arrange a consultation with a specialist and help you take the first step.
 
 ### 8 (800) 700 00 11
 
-Звонки с мобильных и стационарных телефонов РФ – бесплатны.
+Calls from mobile and landline phones in the Russian Federation are free.
 
-Группа взаимопомщи встречается по четвергам и субботам по адресу 7-я улица Строителей, 17. Приходите на ближайшую встречу. 
+The Mutual Aid Group meets on Thursdays and Saturdays at 17 Stroiteley 7th Street. Come to the next meeting.
