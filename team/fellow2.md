@@ -1,6 +1,6 @@
-title="Борис Мориев"    
-lead="Куратор групп поддержки"
+title="Boris Moriev"    
+lead="Coordinator of support groups"
 thumb="person-002.jpg"   
-cat="Команда" 
+cat="Team" 
 
 +++
