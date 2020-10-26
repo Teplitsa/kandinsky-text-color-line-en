@@ -1,4 +1,4 @@
-title="Программа поддержки «Близкий человек»"  
+title="Support program "Significant other""  
 tags=""  
 cat=""  
 thumb="11.jpg"  
@@ -6,9 +6,9 @@ lead=""
 
 +++
 
-Эта программа создана для родственников и друзей тех, кто пришел к нам в центр, проходит лечение и реабилитацию. Мы понимаем, что без надлежащей поддержки со стороны родных и друзей процесс выздоровления может быть затруднен либо не иметь положительной динамики.
+This program was created for the relatives and friends of those who came to our center, undergo treatment and rehabilitation. We understand that without proper support from family and friends, the healing process can be difficult or not positive.
 
-Поддержка близких людей особенно важна на первом этапе выздоровления, когда идет отказ от спиртного. Поэтому мы проводим серию семинаров, на которых рассказываем о тех изменениях в жизни семьи, которые необходимо предпринять, чтобы не провоцировать выздоравливающего на срыв и употребление алкоголя. Лекции читают профессиональные психологи и врачи.
+The support of loved ones is especially important at the first stage of recovery, when there is a rejection of alcohol. Therefore, we conduct a series of seminars in which we talk about the changes in the life of the family that must be undertaken in order not to provoke the recovering person into a breakdown and alcohol consumption. Lectures are given by professional psychologists and doctors.
 
-По окончании программы мы проводим индивидуальные консультации с каждым членом семьи и даем им план лечения, разработанный специально для их близкого человека. Он помогает им контролировать прогресс и в случае необходимости «подталкивать» участника программы выздоровления к положительным изменениям. В программе могут принять участие родственники и друзья участников программы.
+At the end of the program, we conduct individual consultations with each family member and give them a treatment plan designed specifically for their loved one. He helps them monitor progress and, if necessary, "push" the participant in the recovery program to make positive changes. Relatives and friends of the program participants can take part in the program.
 
