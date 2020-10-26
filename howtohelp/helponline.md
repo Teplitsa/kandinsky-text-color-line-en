@@ -1,4 +1,4 @@
-title="Помогите Online"  
+title="Help online"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,14 +6,14 @@ lead=""
 
 +++
 
-#### Поделиться в Фейсбук:
+#### Share on Facebook:
 
-«Надежда есть всегда! Мы помогаем людям с алкогольной зависимостью. Некоммерческая организация «Линия цвета». Узнайте о наших программах». Линк.
+“There is always hope! We help people with alcohol addiction. Non-profit organization "Line of Color". Learn about our programs. " Link.
 
-#### Поделиться в ВКонтакте:
+#### Share on VK:
 
-«Друзья, расскажите свою историю выздоровления и отказа от алкоголя. Присоединяйтесь к сообществу «Линия цвета». Линк
+“Friends, tell us your story of recovery and quitting alcohol. Join the Color Line community. Link
 
-#### Поделиться в Одноклассниках:
+#### Share on OK:
 
-«Все еще бухаешь? Тогда мы идем к тебе на помощь! А лучше ты приходи к нам в группу поддержки. Поможем и поддержим. Присоединяйся к акции «СтопБухло». Хочешь бросить пить – дай Класс!». Линк.
+“Are you still drinking? Then we come to your aid! Better you come to our support group. We will help and support. Join the "Stop Booze" action. If you want to quit drinking - give Like! ". Link.
