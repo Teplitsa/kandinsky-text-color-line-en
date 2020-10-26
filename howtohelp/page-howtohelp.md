@@ -1,4 +1,4 @@
-title="Как помочь"  
+title="How to help"  
 slug="howtohelp" 
 
 +++
@@ -11,7 +11,7 @@ slug="howtohelp"
 
 [content name="helponline-intro"]
 
-[shortcode name="knd_image_section" content="helponline-data" img="helponline.jpg" title="6700 человек" text_place="ontop"]
+[shortcode name="knd_image_section" content="helponline-data" img="helponline.jpg" title="6700 people" text_place="ontop"]
 
 [content name="helponline"]
 
@@ -19,4 +19,4 @@ slug="howtohelp"
 
 [content name="suvenirs-intro" title="yes"]
 
-[shortcode name="knd_image_section" content="suvenirs" img="suvenirs.jpg" title="Уникальные работы" text_place="ontop"]
+[shortcode name="knd_image_section" content="suvenirs" img="suvenirs.jpg" title="Unique items" text_place="ontop"]
