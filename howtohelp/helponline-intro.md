@@ -1,10 +1,10 @@
-title="Помогать Online"  
+title="Help online"  
 tags=""  
 cat=""  
 thumb="helponline.jpg"  
 lead=""
 +++  
 
-<h3 style="text-align:center;">Помогать Online</h3>
+<h3 style="text-align:center;">Help online</h3>
 
-Вступите в нашу группу в социальных сетях Фейсбук, ВКонтакте, Одноклассники или Инстаграм. Расскажите о нашем сообществе своим друзьям и коллегам. Поделитесь информацией о наших программах с теми, кому может быть нужна помощь.
+Join our group on social networks Facebook, VK, OK or Instagram. Tell your friends and colleagues about our community. Share information about our programs with those who may need help.
