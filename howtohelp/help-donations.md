@@ -1,4 +1,4 @@
-title="Помощь вещами"  
+title="Donate items"  
 tags=""  
 cat=""  
 thumb="donations.jpeg"  
@@ -6,13 +6,14 @@ lead=""
 
 +++
 
-Мы уже собрали *3 505 484 рубля* на программы и лечение людей с алкогольной зависимостью. Благодарим всех неравнодушных наших жертвователей.
+We have already collected *3,505,484 rubles* for programs and treatment of people with alcohol dependence. We thank all our caring donors.
 
-Вы можете сделать денежное пожертвование, но мы также с радостью примем:
+You can donate in cash, but we will also gladly accept:
 
-* лекарства (см. список);
-* одежду; – проездные жетоны и билеты;
-* канцелярские товары;
-* подержанную бытовую технику и предметы повседневного обихода.
+* medicines (see list);
+* clothes; 
+* travel tokens and tickets;
+* stationery;
+* used household appliances and everyday items.
 
-Адрес пункта приема: Москва, улица 17 летия Победы разума, торговый центр "Разуга". 1 этаж. 
+Reception point address: Moscow, 17th Anniversary of Victory of Reason Street, Razuga shopping center. 1st floor.
