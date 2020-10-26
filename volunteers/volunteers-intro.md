@@ -1,4 +1,4 @@
-title="Истории"  
+title="Stories"  
 tags=""  
 cat=""  
 thumb="volunteers.jpg"  
@@ -6,10 +6,10 @@ lead=""
 
 +++
 
-«Я ее когда увидел, просто замер. Ну, и за ней быстрым шагом. Она красавица и на меня, конечно, ноль внимания. Заскочила в подъезд какого-то офисного здания, а я замешкался что-то, пропускал выходивших. Но все равно за ней. Познакомиться хотел, пока бежал по ступеням, храбрости набирался. Немного упустил из виду, но вроде мелькнула ее юбка в дверях. И вот я такой красавчик, не соображая ничего, так и заваливаюсь с баклажкой пива, с косым рылом и перегаром в «Чистую линию». А там ребята сидят в большой светлой комнате, все обернулись, посмотрели на меня и как заржут все хором. А Сергей, он потом моим наставником стал, подходит ко мне и говорит сквозь смех: «Это ты правильно зашел».
+“When I saw her, I just froze. Well, and after her with a quick step. She is a beauty and, of course, there is zero attention to me. I jumped into the entrance of some office building, and I hesitated for something, letting those out. But still follow her. I wanted to get to know each other, while I ran up the steps, I was gaining courage. I missed it a little, but it seemed like her skirt flashed in the doorway. And here I am, so handsome, not realizing anything, I am so overwhelmed with a glass of beer, with an oblique snout and fumes into the "Line of Color". And there the guys are sitting in a large, bright room, everyone turned around, looked at me and how everyone will laugh in unison. And Sergei, he later became my mentor, comes up to me and says through laughter: "You entered the right place".
 
-Было это четыре года назад, дальше история долгая, и если кратко, я действительно тогда в правильное место зашел. Я уже четыре года здесь, бросил пить, восстановился, помогаю другим. Это и есть моя история волонтера. Еще вопросы будут?»
+It was four years ago, then the story is long, and in short, I really went to the right place then. I've been here for four years now, quit drinking, recovered, helping others. This is my volunteer story. Any more questions?"
 
-А девушка, девушку-то вы нашли? Виталий, волонтер центра «Линия цвета», смеется и озирается по сторонам, словно ищет кого-то: «Нет, не нашел, никогда ее больше не видел. Но сказка в другом: я тут встретил Наташу, которая, были времена, буквально от края пропасти меня отводила. И теперь нашей Катеньке один год, а Петьке два года уже. Вот так».
+And the girl, did you find the girl? Vitaly, a volunteer at the Color Line center, laughs and looks around as if looking for someone: “No, I didn't find her, I never saw her again. But the tale is different: here I met Natasha, who, there were times, literally took me away from the edge of the abyss. And now our Katenka is one year old, and Petka is two years old".
 
-Каждый волонтер в нашем центре «Линия цвета» может рассказать свою историю. Они очень разные, иногда шокируют, опускают вас на самое дно, часто вызывают радость, дают силы и надежду. У нас нет случайных людей. Каждый приходит со своей бедой, а излечившись или получив помощь от других, остается, чтобы помогать.
+Each volunteer in our "Line of Color" center can tell their story. They are very different, sometimes they shock, sink you to the very bottom, often cause joy, give strength and hope. We don't have random people. Each one comes with his own misfortune, and having healed or receiving help from others, he remains to help.
