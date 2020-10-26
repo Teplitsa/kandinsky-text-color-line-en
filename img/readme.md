@@ -1,9 +1,9 @@
-Изображения проекта
+Project images
 
-Для парсера нам нужно разметку вида
+For a parser we need markup like that: 
 
 img="3.jpg"
 
-Но если бы мы хотели показать ее в описании, мы бы сделали так:
+But if we wanted to show it in the description, we would do this:
 
-![тестовая картинка](https://github.com/Teplitsa/kandinsky-text/blob/master/color-line/img/3.jpg "Тестовая картинка")
+![test image](https://github.com/Teplitsa/kandinsky-text/blob/master/color-line/img/3.jpg "Test image")
