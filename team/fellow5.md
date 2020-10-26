@@ -1,6 +1,6 @@
-title="Лавр Владислав"    
-lead="Координатор работы со СМИ и пожертвованиями"
+title="Lavr Vladislav"    
+lead="Media and Fundraising Coordinator"
 thumb="person-005.jpg"   
-cat="Команда"
+cat="Team"
 
 +++
