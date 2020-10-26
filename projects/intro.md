@@ -4,4 +4,4 @@ cat=""
 thumb="intro.jpg"  
 lead=""  
 
-«Линия цвета» – благотворительный фонд. Мы занимаемся помощью людям с алкогольной зависимостью. Постоянно проводим программы по реабилитации и помощи людям решившим отказаться от этой пагубной привычки. На сегодняшний день мы реализуем следующие проекты.
+"Line of Color" is a charitable foundation. We are engaged in helping people with alcohol addiction. We constantly conduct programs for rehabilitation and assistance to people who have decided to give up this addiction. Today we are implementing the following projects.
