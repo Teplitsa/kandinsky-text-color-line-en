@@ -1,4 +1,4 @@
-title="Сделать пожертвование"  
+title="Donate"  
 tags=""  
 cat=""  
 thumb="donations.jpeg"  
@@ -6,4 +6,4 @@ lead=""
 
 +++
 
-<h3 style="text-align:center;">Сделать пожертование</h3>
+<h3 style="text-align:center;">Donate</h3>
