@@ -1,7 +1,7 @@
-title="Кто мы?"  
-lead=Узнайте о нашей работе  
+title="Who we are"  
+lead=Learn about our work  
 url="/about/"    
 
 +++
 
-Благотворительная организация «Линия Цвета» помогает преодолеть алкогольную зависимость и вернуться к полноценной жизни.
+The charitable organization "Line of Color" helps to overcome alcohol addiction and return to a fulfilling life.
