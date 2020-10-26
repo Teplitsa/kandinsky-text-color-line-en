@@ -1,6 +1,6 @@
-title="Иванка Лех"    
-lead="Куратор работы волонтеров"
+title="Ivanka Lekh"    
+lead="Volunteer supervisor"
 thumb="person-003.jpg"   
-cat="Команда"
+cat="Team"
 
 +++
