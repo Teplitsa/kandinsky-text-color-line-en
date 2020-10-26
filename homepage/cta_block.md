@@ -1,10 +1,10 @@
-title="112 волонтеров помогают «Линии цвета» в настоящий момент"
-tags="волонтеры, алкоголизм, сбор средств, помощь"
+title="112 volunteers are helping Line of Color at the moment"
+tags="volunteers, alcoholism, fundraising, help"
 cat="cta_block"
 thumb=""
-lead="Стать волонтером"
+lead="Become a volunteer"
 url="/volunteers/"
 
 +++
 
-Присоединяйтесь к команде волонтеров и консультантов в наших проектах
+Join a team of volunteers and consultants in our projects
