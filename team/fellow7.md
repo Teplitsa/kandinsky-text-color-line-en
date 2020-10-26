@@ -1,6 +1,6 @@
-title="Инесса Тепличная"    
-lead="Директор благотворительной организации «Линия цвета»"
+title="Inessa Teplichnaya"    
+lead="Director of the charitable organization "Line of Color""
 thumb="person-007.jpg"   
-cat="Команда" 
+cat="Team" 
 
 +++
