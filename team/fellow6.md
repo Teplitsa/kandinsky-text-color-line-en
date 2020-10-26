@@ -1,6 +1,6 @@
-title="Лада Аннушкина"    
-lead="Редактор сайта, новостных рассылок, дизайн-проектов"
+title="Lada Annushkina"    
+lead="Website editor"
 thumb="person-006.jpg"   
-cat="Команда"
+cat="Team"
 
 +++
