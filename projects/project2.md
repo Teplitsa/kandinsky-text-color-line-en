@@ -1,4 +1,4 @@
-title="Программа отказа от алкогольной зависимости"  
+title="Alcohol Abandonment Program"  
 tags=""  
 cat=""  
 thumb="project2.jpg"  
@@ -6,17 +6,17 @@ lead=""
 
 +++
 
-Программа рассчитана на людей, которые готовы отказаться от алкоголя и приступить к лечению. Разработана на основе опыта программы «Анонимные алкоголики» и рекомендаций Министерства здравоохранения. Эта программа была создана сотрудниками некоммерческой организации «Линия цвета» и показала свою высокую эффективность. По данным независимого аудита социологической компании «Светлый мир», за пять лет работы 83 процента всех принявших участие в ней навсегда отказались от употребления спиртных напитков.
+The program is designed for people who are ready to give up alcohol and start treatment. Developed based on the experience of the Alcoholics Anonymous program and recommendations of the Ministry of Health. This program was created by employees of the non-profit organization "Color Line" and has shown its high efficiency. According to the independent audit of the Svetly Mir sociological company, over the five years of its operation, 83 percent of all those who took part in it have permanently refused to drink alcohol.
 
-### Программа включает в себя шесть ступеней
+### The program includes six steps
 
-* Индивидуальные консультации и разработка программы восстановления. 
-* Участие в группах поддержки и шефство, которое осуществляют над «новичками» те участники проекта, кто успешно завершил программу.
-* Вовлечение в социальную активность и создание сообщества единомышленников вокруг выздоравливающих.
-* Консультации психологов о поиске места в жизни, выстраивании взаимоотношений с родными, близкими и друзьями, которые не отказались от спиртных напитков.
-* Мастер-классы и семинары «История успеха», на которых участники делятся своим опытом выздоровления и построения новой жизни без алкоголя.
-* Поддержка в постреабилитационном периоде.
+* Individual consultations and development of a recovery program.
+* Participation in support groups and patronage, which is carried out over the "newbies" by those project participants who have successfully completed the program.
+* Involvement in social activity and creation of a community of like-minded people around the recovering.
+* Consulting psychologists on finding a place in life, building relationships with family, friends and relatives who have not given up alcoholic beverages.
+* Workshops and seminars "Success Story", where participants share their experience of recovery and building a new life without alcohol.
+* Support in the post-rehabilitation period.
 
-Программа рассчитана на шесть месяцев, по итогам мы стараемся привлечь тех, кто ее прошел, к волонтерской работе в проекте. Это помогает сохранить социальную активность, не терять связь со здоровым социумом, продолжать путь выздоровления. В программе может принять участие каждый, кто решил отказаться от алкогольной зависимости. Ограничений по возрасту нет.
+The program is designed for six months, according to the results we try to attract those who passed it to volunteer work in the project. This helps to maintain social activity, not to lose touch with a healthy society, to continue the path of recovery. Anyone who has decided to give up alcohol addiction can take part in the program. There are no age restrictions.
 
-*Заполните форму для первой индивидуальной консультации. Мы свяжемся с вами и обсудим детали встречи.(Форма)
+*Fill out the form for your first one-on-one consultation. We will contact you and discuss the details of the meeting. (Form)
