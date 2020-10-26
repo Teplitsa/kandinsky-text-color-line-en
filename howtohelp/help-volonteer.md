@@ -1,4 +1,4 @@
-title="Стать волонтером"  
+title="Become a volunteer"  
 tags=""  
 cat=""  
 thumb="beavoloner.jpg"  
@@ -6,14 +6,14 @@ lead=""
 
 +++
 
-<h3 style="text-align:center;">Стать волонтером</h3>
+<h3 style="text-align:center;">Become a volunteer</h3>
 
-**112 волонтеров** помогают «Линии цвета» в настоящий момент.
+**112 volunteers** are helping Line of Color at the moment.
 
-Присоединяйтесь к нашей команде и станьте волонтером или консультантом в наших проектах. Наша волонтерская программа делится на две части. Первая – это кураторы групп поддержки, организаторы мероприятий, стажеры в офисе организации, программисты и журналисты. Вторая – волонтеры-профессионалы, юристы, врачи, психологи, финансовые консультанты.
+Join our team and become a volunteer or consultant in our projects. Our volunteer program is divided into two parts. The first is the curators of support groups, event organizers, interns in the organization's office, programmers and journalists. The second is professional volunteers, lawyers, doctors, psychologists, financial consultants.
 
-Наши координаторы волонтерского движения составляют **еженедельные планы работы для всех участников**, графики работы, делают рассылку, чтобы вы были в курсе событий.
+Our coordinators of the volunteer movement make **weekly work plans for all participants**, work schedules, making a newsletter to keep everyone informed.
 
-Неважно, сколько у вас есть времени. Мы будем рады любому участию. И индивидуально обсудим с вами ваш график и проекты, в которых вы можете участвовать.
+It doesn't matter how much time you have. We look forward to any participation. And we will individually discuss with you your schedule and projects in which you can participate.
 
-**Заполните форму волонтера. Мы сразу свяжемся с вами.**
+**Fill out the volunteer form. We will contact you immediately.**
