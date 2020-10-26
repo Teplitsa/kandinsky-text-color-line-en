@@ -1,37 +1,37 @@
-title="Контакты"
-lead="Как нас найти, позвонить и к кому обратиться в благотворительной организации «Линия цвета»"
+title="Contacts"
+lead="How to find us, call us and who to contact in the charitable organization "Line of Color""
 
 +++
 
 
-#### График работы
+#### Schedule
 
-Наш офис, учебные залы и помещения групп поддержки открыты ежедневно с 9:00 до 22:00 часов.
+Our office, training rooms and support group rooms are open daily from 9:00 am to 10:00 pm.
 
-Адрес: город Москва, 7-я улица Строителей, 17, оф.: 211-217. Телефон: +7 495-787-87-23 Email: <a href="mailto:Info@Colorline.ru">Info@Colorline.ru</a>
+Address: Moscow, 7th Stroiteley Street, 17, office: 211-217. Phone: +7 495-787-87-23 Email: <a href="mailto:Info@Colorline.ru">Info@Colorline.ru</a>
 
-#### К кому обратиться
+#### Who to contact
 
-**Инесса Тепличная**  
-Директор благотворительной организации «Линия цвета».
+**Inessa Teplichnaya**
+Director of the "Line of Color" charitable organization.
 
-**Борис Мориев**  
-Куратор групп поддержки
+**Boris Moriev**
+Coordinator of support groups
 
-**Иванка Лех**  
-Куратор работы волонтеров
+**Ivanka Lech**
+Volunteer supervisor
 
-**Сидор Алексеев**  
-Руководитель учебных проектов
+**Sidor Alekseev**
+Head of educational projects
 
-**Лавр Владислав**  
-Координатор работы со СМИ и пожертвованиями
+**Lavr Vladislav**
+Media and Fundraising Coordinator
 
-**Лада Аннушкина**  
-Редактор сайта, новостных рассылок, дизайн-проектов
+**Lada Annushkina**
+Website editor
 
-**Эвана Львова**  
-Куратор работы с родственниками
+**Evan Lvova**
+Coordinator of work with relatives
 
-**Задайте нам вопрос, напишите нам**
+**Ask us a question, write to us**
 
