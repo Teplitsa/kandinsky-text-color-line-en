@@ -1,4 +1,4 @@
-title="Как присоединиться"  
+title="How to join"  
 tags=""  
 cat=""  
 thumb="howtojoin.jpg"  
@@ -6,16 +6,16 @@ lead=""
 
 +++
 
-### Нужна помощь
+### You nee help
 
-Вам нужна помощь? Вы решили бросить пить, отказаться от алкоголя? Не знаете как это сделать, нет сил в одиночку справиться с алкогольной зависимостью? Запишитесь на индивидуальную консультацию с нашим специалистом. В условиях полной анонимности вы сможете пройти курс лечения и реабилитации. 
+Do you need help? Have you decided to quit drinking, give up alcohol? Do not know how to do this, do not have the strength to cope with alcohol addiction alone? Sign up for an individual consultation with our specialist. In complete anonymity, you can undergo treatment and rehabilitation.
 
-Заполните форму для консультации (форма) или приходите к нам в офис (адрес)
+Fill out the consultation form (form) or come to our office (address)
 
-### Хочу помочь
+### You want to help someone
 
-У вас есть друг, родственник, которому нужна помощь? Он или она не может сделать первый шаг или не знает с чего начать? Вы можете записаться к нам на консультацию и мы расскажем, как вы можете помочь близкому человеку. Объясним, какие первые шаги необходимо предпринять, чтобы мягко подтолкнуть человека и дать идею, которая поможет изменить ситуация. Напишите нам, приходите в офис, мы объясним что нужно делать. (Форма)
+Do you have a friend, relative who needs help? Is he or she unable to take the first step or does not know where to start? You can sign up for a consultation with us and we will tell you how you can help a loved one. Let's explain what the first steps need to be taken in order to gently nudge the person and give an idea that will help change the situation. Write to us, come to the office, we will explain what needs to be done. (The form)
 
-### Вы хотите нас поддержать
+### You want to support us
 
-Вы представляете компанию? Вы хотите поддержать наши проекты и оказать корпоративную помощь? Мы будем рады сотрудничеству. Уже сейчас мы работаем со СМИ, творческими агентствами, IT- компаниями и коммерческими организациями. Напишите нам, и мы с радостью придем к вам, чтобы рассказать о наших проектах и организации. Совместно мы сможем выработать формы и методы сотрудничества. (Форма)
+Do you represent a company? Do you want to support our projects and provide corporate assistance? We will be glad to cooperate. We are already working with the media, creative agencies, IT companies and commercial organizations. Write to us and we will be happy to come to you to tell you about our projects and organization. Together we will be able to work out forms and methods of cooperation. (The form)
