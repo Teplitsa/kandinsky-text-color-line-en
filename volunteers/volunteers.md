@@ -1,4 +1,4 @@
-title="Bолонтерская программа делится на две части"  
+title="The volunteer program is divided into two parts"  
 tags=""  
 cat=""  
 thumb="volunteers.jpg"  
@@ -6,17 +6,16 @@ lead=""
 
 +++
 
-<h3 style="text-align:center;">Bолонтерская программа делится на две части</h3>
+<h3 style="text-align:center;">The volunteer program is divided into two parts</h3>
 
-**Первая** – это кураторы групп поддержки, организаторы мероприятий, стажеры в офисе организации, программисты и журналисты.
+**First** are support group coordinators, event organizers, interns in the organization's office, programmers and journalists.
 
-**Вторая** – волонтеры-профессионалы, юристы, врачи, психологи, финансовые консультанты.
+**Second** are professional volunteers, lawyers, doctors, psychologists, financial consultants.
 
-Наши координаторы волонтерского движения составляют еженедельные планы работы для всех участников, графики работы, делают рассылку, чтобы вы были в курсе событий.
+Our volunteer movement coordinators draw up weekly work plans for all participants, work schedules, and send you a newsletter to keep you updated.
 
-Неважно, сколько у вас есть времени. Мы будем рады любому участию. И индивидуально обсудим с вами ваш график и проекты, в которых вы можете участвовать.
+It doesn't matter how much time you have. We look forward to any participation. And we will individually discuss with you your schedule and projects in which you can participate.
 
-Присоединяйтесь к нашей команде и станьте волонтером или консультантом в наших проектах.
+Join our team and become a volunteer or consultant in our projects.
 
-**Заполните форму волонтера. Мы сразу свяжемся с вами.** (Форма)
- 
+**Fill out the volunteer form. We will contact you immediately.** (Form) 
