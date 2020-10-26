@@ -1,4 +1,4 @@
-title="Программа «Линия цвета»"  
+title="Line of Color program"  
 tags=""  
 cat=""  
 thumb="4.jpg"  
@@ -6,12 +6,12 @@ lead=""
 
 +++
 
-Это реабилитационная программа рассчитана на тех, кто прошел лечение и готов двигаться дальше. Им мы предлагаем различные образовательные программы для восстановления профессиональных навыков или получения новой профессии. В рамках этой программы мы также оказываем помощь в восстановлении документов, поиске работы, даем консультации по финансовой дисциплине.
+This rehabilitation program is designed for those who have received treatment and are ready to move on. We offer them various educational programs to restore professional skills or acquire a new profession. As part of this program, we also provide assistance in the restoration of documents, job search, and give advice on financial discipline.
 
-### Программа имеет три направления: 
+### The program has three areas:
 
-* «Творчество». Серия мастер-классов для тех, кто хотел бы раскрыть свой творческий потенциал. Уроки по фотографии, рисованию, садоводству.
-* «Профессионал». Школа программирования и веб-дизайна. Трехмесячные очные курсы по обучению разным языкам программирования. По окончании школы мы помогаем с трудоустройством.
-* «Новая жизнь». Серия семинаров о навыках жизни. В течение 12 уроков участники узнают особенности финансовой грамотности для стабильной жизни, узнают, как рационально использовать открывшиеся возможности, учатся психологическим навыкам постоянного отказа от алкоголя, изучают различные творческие возможности, которые открывает перед ними трезвый образ жизни.
+* "Creation". A series of master classes for those who would like to unleash their creative potential. Lessons in photography, drawing, gardening.
+* "Professional". School of Programming and Web Design. Three-month full-time courses on teaching different programming languages. After finishing school we help with employment.
+* "New life". Life skills seminar series. During 12 lessons, the participants will learn the features of financial literacy for a stable life, learn how to rationally use the opportunities that have opened up, learn the psychological skills of permanent refusal from alcohol, explore various creative possibilities that a sober lifestyle opens up for them.
 
-Запись в учебные программы осуществляется по желанию участников по итогам прохождения программы отказа от алкогольной зависимости.
+Enrollment in educational programs is carried out at the request of the participants based on the results of the program of cessation of alcohol dependence.
