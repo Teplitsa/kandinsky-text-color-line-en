@@ -1,4 +1,4 @@
-title="Программа «Дом»"  
+title="Program «Home»"  
 tags=""  
 cat=""  
 thumb="14.jpg"  
@@ -6,17 +6,17 @@ lead=""
 
 +++
 
-Программа была разработана совместно с правительством города Москвы. Она направлена на предоставления социальной и реабилитационной защиты женщинам с алкогольной зависимостью, которые пострадали от насилия. В рамках этого проекта мы предоставляем временное жилье, помощь врачей и психологов женщинам пережившим насилие. Женщины обратившиеся к нам могут пройти программу реабилитации и лечения от алкоголизма.
+The program was developed jointly with the Moscow city government. It aims to provide social and rehabilitative protection for women with alcohol dependence who have suffered from violence. As part of this project, we provide temporary housing, doctors and psychologists to women survivors of violence. Women who come to us can undergo a program of rehabilitation and treatment for alcoholism.
 
-Правительство Москвы предоставило для программы блок в уединенном санатории за пределами города. Здесь, в безопасном убежище, женщины могут прийти в себя после полученных травм, пройти курс лечения и общаться с в анонимных группах поддержки.
+The Moscow government has provided a block in a secluded sanatorium outside the city for the program. Here, in a safe haven, women can recover from their injuries, receive treatment, and communicate with anonymous support groups.
 
- # Программа состоит из четырех этапов: #
+ # The program consists of four stages: #
 
-* Реабилитация. Помощь врачей, психологов, юристов.
-* Лечение. Двухмесячная программа, которая помогает отказаться от алкоголя.
-* Адаптация. Курсы психологической помощи.
-* Новый пусть. Серия индивидуальных консультаций со специалистами по выстраиванию новой жизни.
+* Rehabilitation. Help of doctors, psychologists, lawyers.
+* Treatment. A two-month program to help you quit alcohol.
+* Adaptation. Psychological assistance courses.
+* New let. A series of individual consultations with specialists in building a new life.
 
-По окончании этой программы желающие могут присоединиться к другим программам нашего центра.
+Upon completion of this program, those who wish can join other programs of our center.
 
-**Поддержите нас, сделайте пожертвование.(Форма пожертвований)**
+**Support us, make a donation. (Donation form)**
