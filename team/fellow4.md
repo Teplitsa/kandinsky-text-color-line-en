@@ -1,6 +1,6 @@
-title="Сидор Алексеев"    
-lead="Руководитель учебных проектов"
+title="Sidor Alekseev"    
+lead="Head of educational projects"
 thumb="person-004.jpg"   
-cat="Команда"
+cat="Team"
 
 +++
