@@ -1,4 +1,4 @@
-title="Наша история"  
+title="Our history"  
 slug="history"  
 lead=""  
 thumb=""  
