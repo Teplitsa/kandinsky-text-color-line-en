@@ -1,4 +1,4 @@
-title="Компаниям"  
+title="For organizations"  
 tags=""  
 cat=""  
 thumb=""  
@@ -7,4 +7,4 @@ lead=""
 +++
 
 
-Мы стараемся привлекать к работе в качестве добровольцев и организации. Волонтерскую помощь в технических вопросах нам оказывает агентство «IT-телескоп», а дизайн сайта и всей печатной продукции делает на основе pro bono дизайнерское агентство «Сталкер».
+We try to recruit volunteers and organizations. Volunteer assistance in technical matters is provided by the "IT-telescope" agency, and the design of the website and all printed materials is done pro bono by the "Stalker design" agency.
