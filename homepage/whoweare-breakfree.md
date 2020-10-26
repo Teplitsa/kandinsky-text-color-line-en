@@ -1,7 +1,7 @@
-title="Бросить пить?"  
-lead=Получить помощь  
+title="Stop drinking?"  
+lead=Get help  
 url="/gethelp/"  
 
 +++
 
-Заполните анонимную форму на сайте, выберите удобное вам время для индивидуальной консультации или запишитесь в группу поддержки.
+Fill out the anonymous form on the website, choose a convenient time for an individual consultation, or sign up for a support group.
