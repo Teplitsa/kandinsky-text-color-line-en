@@ -1,13 +1,13 @@
-title="Помочь фонду"  
+title="Help fund"  
 tags=""  
-cat="Как помочь"  
+cat="How to help"  
 thumb="donations.jpg"  
 lead=""  
 age=""  
 target=""  
 +++
  
-Деятельность фонда возможна только благодаря пожертвованиям людей и частных компаний. Мы соединяем тех, кто может помочь, и тех, кто остро нуждается в материальной поддержке на пути к здоровому образу жизни. 
+The foundation's activities are only possible because of donations from people and private companies. We connect those who can help and those who are in dire need of material support on the way to a healthy lifestyle.
 
-Воспользуйтесь одним из онлайн-способов или примите участие в наших программах как волонтер.   
+Use one of the online methods or participate in our programs as a volunteer.
  
