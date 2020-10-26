@@ -1,4 +1,4 @@
-title="Политика сайта"  
+title="Site policy"  
 tags=""  
 cat=""  
 thumb=""  
@@ -7,12 +7,11 @@ slug="legal"
 
 +++
 
-Данный ресурс является официальным сайтом благотворительного фонда «Линия цвета». Работа сайта, взаимодействие с пользователями, публикация материалов, использование материалов, совершение пожертвований и другие аспекты работы сайта регулируются следующими документами.
+This resource is the official website of the "Line of Color" charitable foundation. The operation of the site, interaction with users, publication of materials, use of materials, making donations and other aspects of the site are governed by the following documents.
 
-//По действующему законодательству РФ на сайте должен быть размещен в открытом доступе ряд юридических документов и политик, регламентирующих его работу. Организуйте для него отдельный раздел.
+//According to the current legislation of the Russian Federation, a number of legal documents and policies regulating its work must be posted on the site in the public domain. Organize a separate section for it.
 
-* Политика безопасности
-* Политика конфиденциальности
-* Политика обработки персональных данных
-* Оферта добровольного пожертвования
-
+* Security policy
+* Privacy policy
+* Personal data processing policy
+* Voluntary donation offer
