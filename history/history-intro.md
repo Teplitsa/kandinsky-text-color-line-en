@@ -1,10 +1,10 @@
-title="Наша истори"  
+title="Our history"  
 slug="history"  
 lead=""  
 thumb=""  
 
 +++
 
-> Вы знаете, я не хотела жить. В тот момент, казалось, что в этом уже нет смысла. Мой сын умер. Умер у меня на руках. Я до сих пор вижу его лицо, искаженное мукой. Мы боролись, пытались остановить этот кошмар, но не смогли смогли, не успели. Он постоянно срывался. Последняя доза наркотиков и алкоголя была для него смертельной. Моему мальчику было всего 19 лет».
+> You know, I didn't want to live. At that moment, it seemed that this no longer makes sense. My son is dead. He died in my arms. I can still see his face distorted with anguish. We fought, tried to stop this nightmare, but could not, did not have time. He relapsed over and over again. The last dose of drugs and alcohol was fatal for him. My boy was only 19 years old».
 
-Говорит **Анастасия Семенова**, основатель благотворительного фонда «Линия цвета». С этой трагедии началась история нашей организации.
+Says **Anastasia Semenova**, founder of the "Line of color" charitable foundation. The history of our organization began with this tragedy.
