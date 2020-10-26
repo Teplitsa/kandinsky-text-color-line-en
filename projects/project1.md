@@ -1,4 +1,4 @@
-title="Образовательная программа для учеников средних школ"  
+title="Educational program for secondary school students"  
 tags=""  
 cat=""  
 thumb="2.jpg"  
@@ -6,21 +6,21 @@ lead=""
 
 +++
 
-Некоммерческая организация «Линия цвета» создала и проводит учебную программу о вреде алкоголя для школьников старших классов. Программа создавалась совместно с Новосибирским институтом фармакологии и здравоохранения РАН. Программа включена в учебное расписание в 100 школах по всей стране.
+The non-profit organization "Line of Color" has created and is running a curriculum on the dangers of alcohol for high school students. The program was created jointly with the Novosibirsk Institute of Pharmacology and Healthcare of the Russian Academy of Sciences. The program is included in the curriculum in 100 schools across the country.
 
-За два года работы программа показала обнадеживающие результаты. По данным опроса социологического центра «Анисимов и партнеры», 95 процентов учеников, принявших участие в программе, указали, что они значительно лучше понимают, какой вред алкоголь наносит их здоровью. 79 процентов участников сообщили, что готовы значительно сократить употребление спиртных напитков. 83 процента – что будут искать помощь в случае если алкоголь приведет их к зависимости.
+Over the two years of operation, the program has shown encouraging results. According to a survey by the Anisimov & Partners sociological center, 95 percent of the students who took part in the program indicated that they understand much better what harm alcohol can cause to their health. 79 percent of the participants said they were willing to significantly reduce their drinking. 83 percent - that they will seek help if alcohol leads them to addiction.
 
-> В закрытой части исследования учащиеся указали, что после завершения программы они снизили употребление алкоголя в среднем на 20 процентов.
+> In the private part of the study, students indicated that after completing the program, they reduced their alcohol consumption by an average of 20 percent.
 
-Исходя из результатов учебной программы, мы вышли с инициативой внедрения этого учебного курса в образовательные учреждения по всей стране. В настоящий момент идет обсуждение проекта на уровне правительства и улучшение программы. Мы работаем над адаптацией учебного контента для учеников разного возраста.
+Based on the results of the curriculum, we came up with an initiative to introduce this curriculum to educational institutions throughout the country. At the moment, the project is being discussed at the government level and the program is being improved. We are working on adapting learning content for students of different ages.
 
-Отдельная часть программы направлена на обучение учителей и родителей. Для них создан специальный курс в рамках учебного расписания.
+A separate part of the program is aimed at educating teachers and parents. A special course has been created for them within the framework of the curriculum.
 
-### Программа включает в себя шесть ступеней:
+### The program includes six stages:
 
-* Встречи родителей. Обсуждение медицинских аспектов и информирование их о вредном влиянии алкоголя на организм подростков.
-* Обсуждение методов убеждения и мотивации подростков не злоупотреблять спиртным.
-* Учебные классы с общеобразовательной программой о вреде алкоголя.
-* Совместные встречи родителей и подростков с выступлениями приглашенных гостей и историями тех, кто преодолел алкогольную зависимость.
-* Анонимные консультации для школьников, готовых отказаться от алкоголя.
-* Специальные программы о продуктах и напитках, которые могут заменить алкоголь.
+* Meetings of parents. Discussion of medical aspects and informing them about the harmful effects of alcohol on the body of adolescents.
+* Discussion of methods of persuading and motivating adolescents not to abuse alcohol.
+* Classrooms with a general education program on the dangers of alcohol.
+* Joint meetings of parents and teenagers with performances by invited guests and stories of those who have overcome alcohol addiction.
+* Anonymous counseling for schoolchildren who are ready to give up alcohol.
+* Special programs about foods and drinks that can replace alcohol.
